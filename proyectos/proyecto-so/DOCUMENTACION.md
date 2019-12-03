@@ -95,4 +95,3 @@ Para poder acceder a las funciones que se describirán a continuación es necesa
 8. `int cr_load(char* orig)`
     * Función que se encarga de copiar un archivo o árbol de directorios, referenciado por `orig` al disco. En caso de que un archivo sea demasiado pesado para el disco, se escribe hasta acabar el espacio disponible.
     * Retorna 0 cuando la carga se efectúa correctamente.
-    *
